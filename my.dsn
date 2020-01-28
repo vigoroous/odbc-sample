@@ -1,0 +1,6 @@
+[ODBC]
+DRIVER=ODBC Driver 13 for SQL Server
+TrustServerCertificate=No
+DATABASE=Benardb
+Trusted_Connection=Yes
+SERVER=.\SQLEXPRESS
